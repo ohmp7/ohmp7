@@ -10,13 +10,14 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently attending the **University of Michigan** and am majoring in **Computer Science!**
  
  🌱 I’m currently learning **low-level prograaming, Supabase, Angular**
 
+⚡ I love playing **Basketball**, listening to **music**, playing **Poker**, and **spending time with family and friends**
+
 💬 Ask me about any **questions, concerns, or anything [here](https://github.com/ohmp7/ohmp7/issues)!**
 
-⚡ I love playing **Basketball**, listening to **music**, playing **Poker**, and **spending time with family and friends**
 
  </div>
  
