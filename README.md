@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **low-level prograaming, Supabase, Angular**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/ohmp7/ohmp7/issues)**
+💬 Ask me about any **questions, concerns, or anything [here](https://github.com/ohmp7/ohmp7/issues)!**
 
 ⚡ I love playing **Basketball**, listening to **music**, playing **Poker**, and **spending time with family and friends**
 
