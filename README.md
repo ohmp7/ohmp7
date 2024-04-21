@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently attending the **University of Michigan** and am majoring in **Computer Science!**
+ 🔭 I’m currently attending the **University of Michigan** and am majoring in **Computer Science** through the **College of Engineering**
  
- 🌱 I’m currently learning **low-level prograaming, Supabase, Angular**
+ 🌱 I’m currently learning **low-level programing, Supabase, Angular**
 
 ⚡ I love playing **Basketball**, listening to **music**, playing **Poker**, and **spending time with family and friends**
 
